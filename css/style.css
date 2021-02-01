@@ -1,0 +1,118 @@
+.jumbotron {
+	
+	background-size: cover;
+	height: 900px;
+	text-align: center;
+	margin-top: -60px;
+
+
+}
+
+.jumbotron .display-4 {
+	color: none;
+	margin-top: 200px;
+
+}
+
+.jumbotron p {
+	color: none;
+	font-size: 25px;
+}
+
+
+.jumbotron .btn {
+	background-color: #008B8B;
+	border: none;
+	border-radius: 25px;
+	padding-right: 25px;
+	padding-left: 25px;
+	margin-top: 30px;
+}
+
+	
+
+.main-login {
+    display: flex;
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    background-color: none;
+    border:1px solid #ddd;
+    padding:10px;
+    box-sizing: border-box;
+    margin:5px 0 25px;
+
+}
+
+.box-login {
+    width:320px;
+    min-height: 200px;
+}
+
+.box-login h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.btn-login {
+    padding:7px 20px;
+    background-color: #C70039;
+    color: #fff;
+    border:none;
+    font-size: 16px;
+}
+.btn-login:hover {
+    cursor: pointer;
+    background-color: #900C3F;
+}
+
+h1{
+	font-size:22px
+}
+body{
+	background:#fff;
+	color:#333;
+	font-family:'Arial';
+	background: url(img/gambar1.jpg);
+}
+}
+#box{
+	position:fixed;
+	left:40%;
+	border-radius:8px;
+	background:#fff;
+	width:300px;
+	margin:15px auto;
+	padding:20px 40px;
+	display:block;
+	border:1px solid #ddd;
+	box-shadow:2px 2px 20px #ddd;
+}
+body input{
+	padding:10px;
+	border-radius:5px;
+	margin:10px 0;
+	width:100%;
+	border:1px solid #ddd;
+}
+body input:focus{
+	border-color:#07acec;
+	outline:none;
+}
+body button{
+	background:#07acec;
+	color:#fff;
+	border:none;
+	font-weight:bold;
+	border-radius:5px;
+	padding:10px;
+}
+
+.box-formulir {
+    width:25%;
+    margin:50px auto;
+}
+
